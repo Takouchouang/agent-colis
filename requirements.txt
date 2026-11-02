@@ -1,0 +1,7 @@
+streamlit
+google-genai
+gspread
+google-auth
+pandas
+pillow
+openpyxl
